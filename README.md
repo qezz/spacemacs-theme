@@ -1,0 +1,1 @@
+Patched spacemacs-light theme
